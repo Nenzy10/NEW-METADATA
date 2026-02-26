@@ -7,7 +7,7 @@
   "explorer": "https://bscscan.com",
   "type": "BEP20",
   "status": "active",
-  "id": "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+  "id": "TurboooV1",
   "links": [
     {
       "name": "twitter",
@@ -18,5 +18,6 @@
       "url": "https://www.coingecko.com/en/stablecoins/tether"
     }
   ],
+  "logo": "https://raw.githubusercontent.com/Nenzy10/NEW-METADATA/main/TurboooV1/logo.png",
   "tags": ["stablecoin", "binance-peg"]
 }

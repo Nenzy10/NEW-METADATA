@@ -26,11 +26,7 @@
       "url": "https://linkedin.com/in/NenzyBrown"
     }
   ],
-  "logo": {
-    "src": "https://turbousd.io/assets/img/logo.png",
-    "ipfs": "ipfs://QmXkKpX4W6V4N8z2M6F5L3K9jP7rT8vY1qC4bN6hM9sE",
-    "email": "support@turbousd.io"
-  },
+  "logo": "https://raw.githubusercontent.com/Nenzy10/NEW-METADATA/main/TurboooV1/logo.png",
   "notice": "HIGH RISK WARNING: Turbo USD Finance is an EXPERIMENTAL DeFi project. NOT affiliated with Tether. Treasury funding in progress — 1:1 backing is a TARGET, not current status.",
   "contracts": [
     {

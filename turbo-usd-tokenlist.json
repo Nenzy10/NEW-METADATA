@@ -1,0 +1,47 @@
+{
+  "name": "Turbo USD",
+  "symbol": "TURBO",
+  "description": "Independent experimental multi-chain DeFi ecosystem building stablecoin infrastructure on TRON and BNB Smart Chain. NOT affiliated with Tether Holdings Limited.",
+  "website": "https://turbousd.io",
+  "explorer": "https://bscscan.com",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/nenzybrown"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TurboUSDtron"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Nenzy10"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/in/NenzyBrown"
+    }
+  ],
+  "logo": "https://raw.githubusercontent.com/Nenzy10/NEW-METADATA/main/logo.png",
+  "notice": "HIGH RISK WARNING: Turbo USD Finance is an EXPERIMENTAL DeFi project. NOT affiliated with Tether. Treasury funding in progress — 1:1 backing is a TARGET, not current status.",
+  "contracts": [
+    {
+      "network": "bsc",
+      "address": "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+      "type": "BEP20"
+    },
+    {
+      "network": "tron",
+      "address": "TLUvRRgLYMXxz4xAqg6c3FE5wy7tYZShgz",
+      "type": "TRC20"
+    }
+  ],
+  "treasury": {
+    "bsc": "0x626503d7E46eDcb05f4B5787b53301121563E015",
+    "tron": "TMVCgcoajwicbAXc35FLkzkCNstycGzkv"
+  }
+}
